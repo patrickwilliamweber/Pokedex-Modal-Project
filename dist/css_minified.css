@@ -1,0 +1,19 @@
+#buttonId {
+    display: block!important;
+    height: 200px!important;
+    width: 200px!important
+}
+
+#modal-body {
+    display: flex;
+    justify-content: space-between
+}
+
+#pokemonImage {
+    float: right
+}
+
+#buttonForModal {
+    margin: 4px!important;
+    border: 1px solid #000
+}
